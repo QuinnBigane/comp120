@@ -1,0 +1,8 @@
+Grading:
+Passed all tests.  Nice job.: 0
+Movie class __str__ does not return the correct information: -3
+Movie class __repr__ method should return values of all instance variables: -2
+Total Deductions: -5
+Final Score: 95
+Comments: 
+  Nice Program

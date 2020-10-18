@@ -1,0 +1,13 @@
+Grading:
+Add button does not insert new
+address after current address: -3
+First button on empty list raises exception: -1
+Last button on empty list raises exception: -1
+Delete on empty list raises exception: -1
+Delete of last item does not then display
+the previous item: -2
+Load does not delete current list contents: -2
+Load does not display first address from file: -1
+Total Deductions: -11
+Final Score: 89
+Comments: 

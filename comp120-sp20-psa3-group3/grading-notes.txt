@@ -1,0 +1,9 @@
+Grading:
+Circles: Program does not drag the circles around.  (Circle is not redrawn until mouse release): -5
+Circles: Quit button does not work: -5
+Circles: The user should specify  the circles with mouse clicks, not mouse presses.: -5
+Fractal: Reset button does not work: -5
+Fractal: Header info missing.: -2
+Total Deductions: -22
+Final Score: 78
+Comments: 
